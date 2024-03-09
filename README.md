@@ -1,1 +1,1 @@
-# Contains the project & internship files and results
+# Data Intenships and projects files
